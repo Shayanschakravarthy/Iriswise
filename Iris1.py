@@ -27,7 +27,7 @@
 # pickle_out.close()
 
 # # Streamlit UI
-# st.set_page_config(page_title="Iris Species Predictor", page_icon="🌸", layout="wide")
+# st.set_page_config(page_title="Iris Species Predictor", page_icon="🌷", layout="wide")
 # st.title("🌼 Iris Species Prediction App")
 
 # st.markdown("""
@@ -51,7 +51,7 @@
 #         st.warning("⚠️ Input values must be greater than 0")
 #     else:
 #         prediction = model.predict([x])
-#         st.success(f"🌷 Predicted Species: **{prediction[0]}**")
+#         st.success(f"💐 Predicted Species: **{prediction[0]}**")
 
 # # Data visualization
 # st.markdown("### 🌸 Dataset Overview & Visualization")
