@@ -32,7 +32,7 @@ Get started with IrisWise by following these simple steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Hunterdii/Iriswise.git
+   git clone https://github.com/Shayanschakravarthy/Iriswise.git
    ```
 
 2. Install the required dependencies:
